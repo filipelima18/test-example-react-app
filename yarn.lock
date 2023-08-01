@@ -637,6 +637,11 @@ rollup@^3.20.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
+sandpack@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/sandpack/-/sandpack-1.0.0.tgz#afbffa78e5f317651b4c7bb2d065746e9413d7d1"
+  integrity sha512-lnUpQPH24Fg36WjP/dTM7TOg5Nq+UZPnpWhSe1memg3MLObq3fWq7OCAs2VjeSp4Zi55qk1TDdE+rigssEaFWg==
+
 scheduler@^0.23.0:
   version "0.23.0"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.23.0.tgz#ba8041afc3d30eb206a487b6b384002e4e61fdfe"
